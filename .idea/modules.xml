@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/Gogoapps/envision/envision/helper/.idea/helper.iml" filepath="D:/Gogoapps/envision/envision/helper/.idea/helper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/stock_market_prediction.iml" filepath="$PROJECT_DIR$/.idea/stock_market_prediction.iml" />
     </modules>
   </component>
